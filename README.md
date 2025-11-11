@@ -36,18 +36,31 @@ set GEMINI_API_KEY=YOUR_API_KEY_HERE
 ### How to run
 
 1.To create a Folder:**First-agent** is a name of a Folder.
+
     mkdir First-agent
+    
     cd First-agent
+    
 2.Initialize a node.js project:This will create a package.json.
+
     npm init -y
+    
 3.Install Gemini AI Package
+
    npm install @google/generative-ai
+   
 You’ll now have:
+
    package.json
+   
    package-lock.json
+   
    node_modules 
+   
 4.Set Your GEMINI API Key
+
    set GEMINI_API_KEY=YOUR_API_KEY_HERE
+   
 5.Run:node Ai_Gemini_chatbot.js
 
 --------------------------------------------------------------------------------------
