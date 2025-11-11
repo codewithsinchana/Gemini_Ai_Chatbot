@@ -3,9 +3,9 @@
 
 # Day 1 AI Assistant - Kaggle Assignment
 
-Student: Sinchana T R  
-Course: Kaggle AI Agents Bootcamp  
-Date: 2025-11-11  
+**Student**: Sinchana T R  
+**Course**: Kaggle AI Agents Bootcamp  
+**Date**: 2025-11-11  
 
 ##  Project Overview
 
@@ -18,14 +18,12 @@ The assistant can chat via **command-line interface** and remembers past convers
 - Maintains conversation memory
 - Supports 'exit' command to stop the chat
 
--------------------------------------------------------------------------------
-
 ###  Features
 
 - Interactive chat in terminal
 - Works locally with Node.js
 
-Requirements:
+#### Requirements:
 
 - install **npm install**
 
@@ -34,22 +32,29 @@ set GEMINI_API_KEY=YOUR_API_KEY_HERE
 
 # Linux/Mac
 export GEMINI_API_KEY=YOUR_API_KEY_HERE
-
+--------------------------------------------------------------------------------------
 OUTPUT
 
 Chat started with memory! Type 'exit' to stop.
 
 **You**: Hi Gemini
+
 Thinking...
+
 **Gemini**: Hello!
-
+----------------------------------------------------------
 **You**: What is my name?
+
 Thinking...
+
 **Gemini**: Your name is Sinchana.
-
+----------------------------------------------------------
 **You**: Who is my favorite idol?
-Thinking...
-**Gemini**: Your favorite idol is Radha Krishna.
 
+Thinking...
+
+**Gemini**: Your favorite idol is Radha Krishna.
+-----------------------------------------------------------
 **You**: Exit
+
 Bye!
