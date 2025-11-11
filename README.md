@@ -28,8 +28,8 @@ The assistant can chat via **command-line interface** and remembers past convers
 Requirements:
 
 - install **npm install**
-- 
-- # Windows
+
+# Windows
 set GEMINI_API_KEY=YOUR_API_KEY_HERE
 
 # Linux/Mac
@@ -39,17 +39,17 @@ OUTPUT
 
 Chat started with memory! Type 'exit' to stop.
 
-You: Hi Gemini
+**You**: Hi Gemini
 Thinking...
-Gemini: Hello!
+**Gemini**: Hello!
 
-You: What is my name?
+**You**: What is my name?
 Thinking...
-Gemini: Your name is Sinchana.
+**Gemini**: Your name is Sinchana.
 
-You: Who is my favorite idol?
+**You**: Who is my favorite idol?
 Thinking...
-Gemini: Your favorite idol is Radha Krishna.
+**Gemini**: Your favorite idol is Radha Krishna.
 
-You: Exit
+**You**: Exit
 Bye!
