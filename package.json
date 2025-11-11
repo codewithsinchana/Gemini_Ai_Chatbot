@@ -1,0 +1,12 @@
+{
+  "name": "first-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "Ai_Gemini_chatbot.js",
+  "scripts": {
+    "start": "node Ai_Gemini_chatbot.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^x.x.x"
+  }
+}
