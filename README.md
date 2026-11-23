@@ -1,7 +1,7 @@
 # Gemini_Ai_Chatbot
 “Day 1 Kaggle AI assignment: Personal assistant using Google Gemini API.”
 
-# Day 1 AI Assistant - Kaggle Assignment
+# Day 1 AI Assistant - Kaggle Assignment : 
 
 **Student**: Sinchana T R  
 **Course**: Kaggle AI Agents Bootcamp  
