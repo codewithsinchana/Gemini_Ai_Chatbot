@@ -7,7 +7,7 @@
 **Course**: Kaggle AI Agents Bootcamp  
 **Date**: 2025-11-11  
 
-##  Project Overview
+##  Project Overview 
 
 This project is my **Day 1 Kaggle assignment**.  
 It is a **personal AI assistant** built using **Node.js** and **Google Gemini API**.  
@@ -33,7 +33,7 @@ set GEMINI_API_KEY=YOUR_API_KEY_HERE
 **Linux/Mac**
    export GEMINI_API_KEY=YOUR_API_KEY_HERE
 
-### How to run
+### How to run :
 
 1.To create a Folder:**First-agent** is a name of a Folder.
 
