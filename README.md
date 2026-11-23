@@ -63,7 +63,7 @@ You’ll now have : package.json , package-lock.json , node_modules
 5.Run:node Ai_Gemini_chatbot.js
 
 --------------------------------------------------------------------------------------
-OUTPUT
+OUTPUT : 
 
 Chat started with memory! Type 'exit' to stop.
 
